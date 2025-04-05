@@ -4,7 +4,7 @@
 
 
 <h1>Hello, World! I'm Jahwon — turning complex data into business gold 👋🏾</h1>
-<p>I’m a high-impact Data Analyst trusted by execs to drive decisions, unlock growth, and translate insight into action. With a passion for strategy and storytelling, I don’t just work with data — I make it speak.</p>
+<p>I'm a high-impact Data Analyst and Lean Six Sigma Black Belt, trusted by executives to drive decisions, unlock growth, and turn insights into action. With a passion for strategy and storytelling, I don’t just work with data — I make it speak.</p>
 <p align="left">
   ✨ Turning business challenges into data-powered wins since spreadsheets had clipart<br>
   
@@ -40,7 +40,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/JahwonGrant/JahwonGrant/output/github-snake.svg" />
 </picture>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="www.linkedin.com/in/jahwongrant" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/jahwongrant/" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 <a target="_blank" href="mailto:Jahwongrant@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DB4437&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
  </p>

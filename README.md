@@ -1,15 +1,17 @@
-<h1>Hi 👋, I'm Jahwon — turning complex data into business gold.</h1>
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRwaGxtNHUzNGRlZWdubjV0dHBlOXY2Z2VvaWR1d2NzbTQ1cXBvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" />
+</div>
+
+
+<h1>Hello, World! I'm Jahwon — turning complex data into business gold 👋🏾</h1>
 <p>I’m a high-impact Data Analyst trusted by execs to drive decisions, unlock growth, and translate insight into action. With a passion for strategy and storytelling, I don’t just work with data — I make it speak.</p>
 <p align="left">
   ✨ Turning business challenges into data-powered wins since spreadsheets had clipart<br>
   
-  📚 I'm currently diving into advanced data storytelling, Python, and SQL while advancing my MBA at the University of West Florida<br>
-  
-  🎯 Goals: Build and scale impactful data-driven solutions that transform businesses, lead data innovation in HR strategy, and create value through entrepreneurial ventures<br>
-  
-  🎲 Fun fact: I once designed a predictive model that helped a small business double its revenue in six months by optimizing their marketing strategy
-</p>
-<h2>🚀 Languages and Tools I Use</h2>
+  👨🏾‍🎓 I'm advancing my skills in data-driven decision-making, predictive analytics, and R programming through my MBA in Business Analytics at the University of West Florida<br>
+
+  🛜 Goals: Build and scale impactful data-driven solutions that transform businesses and create value through entrepreneurial ventures<br></p>
+<h2> 💻 Tech Stack:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -28,10 +30,25 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a></p>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence logo" width="42" height="42" />
+  </a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JahwonGrant/JahwonGrant/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JahwonGrant/JahwonGrant/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JahwonGrant/JahwonGrant/output/github-snake.svg" />
+</picture>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/jahwongrant" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/jahwongrant" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+<a target="_blank" href="mailto:Jahwongrant@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DB4437&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+ </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JahwonGrant&show_icons=true&locale=en" alt="JahwonGrant" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JahwonGrant&" alt="JahwonGrant" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JahwonGrant&show_icons=true&locale=en&layout=compact" alt="JahwonGrant" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JahwonGrant" alt="JahwonGrant" /></a></p>
+
+<div align="center">
+    <img src="https://profile-counter.glitch.me/JahwonGrant/count.svg?"  />
+  </div>
